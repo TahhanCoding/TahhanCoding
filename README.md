@@ -1,5 +1,5 @@
 # 💫About Me :
-. I graduated as an Industrial Engineer. I needed to learn some coding to help enhance my career, then I decided why not make it all about software products instead of physical ones. I have already taken good steps in my shift career and need to engage with real firms to get some serious experience. I am a hard-worker and fast engager. Love working with a team.
+. I graduated as an Industrial Engineer. I needed to learn some coding to help enhance my career, then I decided why not make it all about software products instead of physical ones. I have already taken good steps in my career shift and need to engage with real firms to get some serious experience. I am a hard-worker and fast engager. Love working with a team.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-shaaban-22x/) 
