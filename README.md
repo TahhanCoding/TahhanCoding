@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-shaaban-22x/) 
 
 # 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Ahmed0Shaban&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed0Shaban&theme=blueberry&hide_border=true)<br/>
