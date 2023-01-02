@@ -1,5 +1,7 @@
 # 💫About Me :
-. I graduated as an Production Engineer. I needed to learn some coding to help enhance my career, then I wondered why not make it all about software products instead of physical ones. I have already taken good steps in my career shift and need to engage with real firms to get some serious experience. I am a hard-worker and fast engager. Love working with a team.
+iOS Developer - Interested in building services that help people stay Healthy, Productive, Educated and Happy.
+Edit profile
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-shaaban-22x/) 
