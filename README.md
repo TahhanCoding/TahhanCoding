@@ -1,6 +1,6 @@
 # 💫About Me :
 iOS Developer - Interested in building services that help people stay Healthy, Productive, Educated and Happy.
-Edit profile
+
 
 
 ## 🌐Socials
