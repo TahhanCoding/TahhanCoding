@@ -1,6 +1,6 @@
 # 💫About Me :
-iOS Developer - Interested in building services that help people stay Healthy, Productive, Educated and Happy.
-I am a passionate learner. Looking forward to making great apps that add value to people’s lives. I am an engineer who loves to get his hands dirty with the code through trials and debugging to solve problems. I was the team leader for all my bachelor mini-projects and graduation project. Strong eye for detail and agile planning for my goals. I love working towards a scope rather than following a rigid plan.
+Motivated and detail-oriented iOS developer with a passion for building high-quality, value-adding applications that are environmentally friendly. Skilled in Swift, UIKit, SwiftUI, Xcode, and other industry-standard tools and technologies. Seeking remote work on projects that align with my values and interests.
+
 
 
 
