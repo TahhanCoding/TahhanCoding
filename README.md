@@ -6,8 +6,8 @@ Motivated and detail-oriented iOS developer with a passion for building high-qua
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TahhanCoding/) 
+()
 ![[Twitter URL](https://twitter.com/TahhanCoding/)](https://img.shields.io/twitter/url?style=social)
-
 ()
 
 # 💻Tech Stack
