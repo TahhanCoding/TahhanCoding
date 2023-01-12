@@ -9,7 +9,6 @@ Motivated and detail-oriented iOS developer with a passion for building high-qua
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahhancoding&theme=dark&hide_border=false)<br/>
-username=tahhancoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tahhancoding&theme=radical&no-frame=false&no-bg=true&margin-w=4)
