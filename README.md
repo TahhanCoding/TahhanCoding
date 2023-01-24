@@ -1,5 +1,7 @@
 # 💫 About Me:
 Motivated and detail-oriented iOS developer with a passion for building high-quality, value-adding applications that are environmentally friendly. Skilled in Swift, UIKit, SwiftUI, Xcode, and other industry-standard tools and technologies. Seeking remote work on projects that align with my values and interests.<br>
+# 📖 Resume 
+[Ahmed-AlTahhan.pdf](https://github.com/TahhanCoding/TahhanCoding/files/10492886/Ahmed-AlTahhan-2023.pdf)
 
 
 ## 🌐 Socials:
