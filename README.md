@@ -9,8 +9,8 @@ implementing readable and maintainable source code.
 Committed to continuous learning and staying abreast of
 the latest advancements in the dynamic software industry..<br>
 
-Mail: tahhancoding@gmail.com 
-Phohne(Whatsapp&Call): +20 01021 67 69 64
+Mail: tahhancoding@gmail.com <br>
+Phone(Whatsapp&Call): +20 01021 67 69 64
 
 # 📖 Resume 
 ## [AhmedAlTahhan-April2023.pdf](https://github.com/TahhanCoding/TahhanCoding/files/11163443/AhmedAlTahhan-April2023.pdf)
