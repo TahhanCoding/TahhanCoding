@@ -13,36 +13,21 @@ Mail: tahhancoding@gmail.com <br>
 Phone(Whatsapp&Call): +20 01021 67 69 64
 
 # 📖 Personnel Resume 
-## [AhmedAlTahhan-iOS.pdf](https://github.com/user-attachments/files/16642856/AhmedAlTahhan.pdf)
+## [AhmedAlTahhan-iOS.pdf](https://github.com/user-attachments/files/16642856/AhmedAlTahhan.pdf) 
 
-
-
-
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-### 🛠️ Technical Skills-**Programming Languages**:  
+### 🛠️ Tech Stack 💻 
   ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
   ![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-
--**Architectures & Patterns**:  
   ![MVVM](https://img.shields.io/badge/-MVVM-0062CC?style=for-the-badge&logo=microsoft&logoColor=white)
   ![SOLID](https://img.shields.io/badge/-SOLID-FF9900?style=for-the-badge&logo=buffer&logoColor=white)
   ![OOP](https://img.shields.io/badge/-OOP-0099CC?style=for-the-badge&logo=codeigniter&logoColor=white)
-
--**Package Managers**:  
   ![SPM](https://img.shields.io/badge/-SPM-3DDC84?style=for-the-badge&logo=swift&logoColor=white)
   ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
-
--**Networking**:  
   ![API](https://img.shields.io/badge/-API-4AB197?style=for-the-badge&logo=web&logoColor=white)
   ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
   ![Alamofire](https://img.shields.io/badge/-Alamofire-E34F26?style=for-the-badge&logo=swift&logoColor=white)
   ![Combine](https://img.shields.io/badge/-Combine-555555?style=for-the-badge&logo=swift&logoColor=white)
-
--**Frameworks**:  
   ![Google Maps](https://img.shields.io/badge/-Google%20Maps-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
   ![Navigation Coordinator](https://img.shields.io/badge/-Navigation%20Coordinator-555555?style=for-the-badge&logo=compass&logoColor=white)
   ![AlertToast](https://img.shields.io/badge/-AlertToast-FFCC00?style=for-the-badge&logo=apple&logoColor=white)
