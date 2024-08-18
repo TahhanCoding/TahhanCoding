@@ -1,5 +1,5 @@
 # 💫 About Me
-A highly motivated and detail-oriented iOS developer
+### A highly motivated and detail-oriented iOS developer
 with a passion for crafting exceptional, user-focused
 applications. Proficient in utilizing industry-standard tools
 and technologies. Seeking opportunities to collaborate on
