@@ -9,12 +9,9 @@ implementing readable and maintainable source code.
 Committed to continuous learning and staying abreast of
 the latest advancements in the dynamic software industry..<br>
 
-Mail: tahhancoding@gmail.com <br>
-Phone(Whatsapp&Call): +20 01021 67 69 64
-
-# 📖 Personnel Resume 
-
-### [AhmedAlTahhan-iOS.pdf](https://github.com/user-attachments/files/16646897/AhmedAlTahhan-iOS.pdf)
+# Mail: tahhancoding@gmail.com <br>
+# Phone: +20 01021 67 69 64
+# [AhmedAlTahhan-iOS.pdf](https://github.com/user-attachments/files/16646897/AhmedAlTahhan-iOS.pdf)
 
 
 
