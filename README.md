@@ -1,18 +1,98 @@
-# 💫 About Me
-### A highly motivated and detail-oriented iOS developer
-with a passion for crafting exceptional, user-focused
-applications. Proficient in utilizing industry-standard tools
-and technologies. Seeking opportunities to collaborate on
-projects that are built to make user’s life easier.
-Adept at designing user-friendly interfaces and
-implementing readable and maintainable source code.
-Committed to continuous learning and staying abreast of
-the latest advancements in the dynamic software industry..<br>
+# AHMED AL TAHHAN
+**iOS Developer**
 
-# Mail: eng.a.tahan@gmail.com <br>
-# Phone: +20 01021 67 69 64
+📧 eng.a.tahan@gmail.com | 📱 (+20) 010 21 67 69 64  
+🔗 [LinkedIn](https://linkedin.com/in/tahhancoding) | 💻 [GitHub](https://github.com/tahhancoding)
 
-## [AhmedAlTahhan.pdf](https://github.com/user-attachments/files/18189233/AhmedAlTahhan.pdf)
+---
+
+## PROFESSIONAL SUMMARY
+
+Experienced iOS Developer with 2+ years of hands-on experience developing user-centric mobile applications using Swift, SwiftUI, and UIKit. Proven track record of delivering high-quality applications, optimizing performance, and collaborating effectively with cross-functional teams. Expertise in MVVM architecture, API integration, and modern iOS development practices. Committed to writing clean, maintainable code and staying current with industry best practices.
+
+---
+
+## TECHNICAL SKILLS
+
+**Programming Languages:** Swift  
+**Frameworks & Libraries:** SwiftUI, UIKit, Combine, Alamofire  
+**Architecture Patterns:** MVVM, Coordinator Pattern, SOLID Principles  
+**Development Tools:** Xcode, SPM, CocoaPods, Git  
+**Backend Integration:** REST APIs, JSON, Core Data, Keychain Management  
+**Specialized Technologies:** Google Maps SDK, Firebase, Universal Links, Push Notifications  
+**Testing & Debugging:** Unit Testing, Memory Management, Performance Optimization  
+**Additional Skills:** Localization, Accessibility, Custom UI Components
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### **iOS Developer** | Safwa Tech | May 2024 – Present
+*Feastap Provider & User Applications*
+
+- **Architected and developed** dual-platform iOS applications serving both service providers and end users
+- **Collaborated with backend teams** to implement seamless API integration and optimize data flow processes
+- **Engineered custom notification system** by developing centralized alarms and toasts manager, replacing third-party AlertToast library and improving code maintainability
+- **Implemented dynamic theming system** enabling backend-controlled app appearance changes for seasonal campaigns
+- **Designed and integrated** custom UI components including Liquid Swipe animations, Analog Time Picker, and Logo animations
+- **Optimized user navigation** by implementing deep linking and universal link functionality
+- **Enhanced application performance** through comprehensive code refactoring and optimization strategies
+- **Improved user experience** by implementing robust error handling, data validation, and loading optimization
+
+### **iOS Developer** | Quran Memorizer | Oct 2023 – Apr 2024
+*QC Quran Memorizer Application*
+
+- **Resolved critical memory leaks** in audio player functionality, resulting in improved app stability and performance
+- **Refactored audio playback architecture** using dependency injection principles, separating AV Player logic from UI components
+- **Implemented comprehensive localization** using Localizable.strings and stringsdict for multi-language support including Arabic pluralization
+- **Enhanced UI/UX design** by optimizing storyboard constraints and improving overall application performance
+
+### **iOS Developer** | Personal Project | Jan 2023 – May 2023
+*TODO Pomodoros Application*
+
+- **Integrated Core Data** for local task and progress storage, resolving initialization issues
+- **Developed API integration** for motivational advice feature with real-time updates during Pomodoro sessions
+- **Enhanced data management** between Main and Pomodoro views, including session undo functionality and task completion UI updates
+- **Extended timer functionality** with background processing capabilities and integrated natural sounds mixer with custom volume controls
+
+### **iOS Developer** | Open Source Project | Jan 2023 – Apr 2023
+*Gym Routine Tracker Application*
+
+- **Developed SwiftUI interface** for customizable workout exercise settings using Stepper and Picker components
+- **Resolved data binding issues** between Picker components and Core Data Int16 values through intermediate state management
+- **Implemented settings persistence** connecting stored preferences with exercise creation workflows
+
+---
+
+## EDUCATION
+
+**Bachelor of Production and Industrial Engineering**  
+Alexandria University | 2020
+
+---
+
+## PROFESSIONAL DEVELOPMENT
+
+- **CS50's Introduction to Computer Science** | Harvard University
+- **CS193p Developing Applications for iOS using SwiftUI** | Stanford University  
+- **100 Days of Swift (UIKit)** | Paul Hudson
+
+---
+
+## LEADERSHIP & VOLUNTEER EXPERIENCE
+
+- **Team Lead** | University Graduation Project and Semester Projects
+- **Database Administrator** | Primary School Student Information System (Volunteer)
+
+---
+
+## ADDITIONAL INFORMATION
+
+**Languages:** Arabic (Native), English (Advanced)  
+**Military Service:** Completed  
+**Marital Status:** Married  
+**Availability:** Immediate
+
 
 
 
