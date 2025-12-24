@@ -16,18 +16,29 @@ Experienced iOS Developer with 2+ years of hands-on experience developing user-c
 
 **Programming Languages:** Swift  
 **Frameworks & Libraries:** SwiftUI, UIKit, Combine, Alamofire  
-**Architecture Patterns:** MVVM, Coordinator Pattern, SOLID Principles  
-**Development Tools:** Xcode, SPM, CocoaPods, Git  
-**Backend Integration:** REST APIs, JSON, Core Data, Keychain Management  
-**Specialized Technologies:** Google Maps SDK, Firebase, Universal Links, Push Notifications  
-**Testing & Debugging:** Unit Testing, Memory Management, Performance Optimization  
-**Additional Skills:** Localization, Accessibility, Custom UI Components
+**Architecture Patterns:** MVVM, Coordinator Pattern, SOLID Principles, REMIX  
+**Development Tools:** Xcode, SPM, CocoaPods, Git, CI/CD  
+**Backend Integration:** REST APIs, JSON, Core Data, Keychain Management, Firebase  
+**Specialized Technologies:** Google Maps SDK, Universal Links, Push Notifications, Dynamic Tokenization  
+**Testing & Debugging:** Unit Testing, Memory Management, Performance Optimization, Debugging Tools  
+**Additional Skills:** Localization, Accessibility, Custom UI Components, Technical Documentation
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-### **iOS Developer** | Safwa Tech | May 2024 – Present
+### **iOS Developer** | InnovationTeam | Aug 2025 – Present
+*HRSD Application*
+
+- **Implementing complex features** in large-scale HRSD application using REMIX architecture and handling legacy code
+- **Developed dynamic FAQ system** with categorization based on Firebase content, improving user navigation and information discovery
+- **Engineered complex appointment booking flow** managing multiple data sources, complex validation rules, and seamless user experience
+- **Enhanced application security** by implementing dynamic tokenization approach to protect sensitive data
+- **Improved development workflow** by creating custom decoding error handler for debugging environment, accelerating issue identification
+- **Architected and documented** complex feature implementations with flow charts and technical documentation
+- **Bridged UI frameworks** by effectively integrating SwiftUI and UIKit components within hybrid application architecture
+
+### **iOS Developer** | Safwa Tech | Apr 2024 – Aug 2025
 *Feastap Provider & User Applications*
 
 - **Architected and developed** dual-platform iOS applications serving both service providers and end users
@@ -93,34 +104,31 @@ Alexandria University | 2020
 **Marital Status:** Married  
 **Availability:** Immediate
 
-
-
-
-
 ### 🛠️ Tech Stack 💻 
   ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
   ![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
   ![MVVM](https://img.shields.io/badge/-MVVM-0062CC?style=for-the-badge&logo=microsoft&logoColor=white)
+  ![REMIX](https://img.shields.io/badge/-REMIX-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
   ![SOLID](https://img.shields.io/badge/-SOLID-FF9900?style=for-the-badge&logo=buffer&logoColor=white)
   ![OOP](https://img.shields.io/badge/-OOP-0099CC?style=for-the-badge&logo=codeigniter&logoColor=white)
   ![SPM](https://img.shields.io/badge/-SPM-3DDC84?style=for-the-badge&logo=swift&logoColor=white)
   ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
   ![API](https://img.shields.io/badge/-API-4AB197?style=for-the-badge&logo=web&logoColor=white)
   ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
   ![Alamofire](https://img.shields.io/badge/-Alamofire-E34F26?style=for-the-badge&logo=swift&logoColor=white)
   ![Combine](https://img.shields.io/badge/-Combine-555555?style=for-the-badge&logo=swift&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
   ![Google Maps](https://img.shields.io/badge/-Google%20Maps-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
   ![Navigation Coordinator](https://img.shields.io/badge/-Navigation%20Coordinator-555555?style=for-the-badge&logo=compass&logoColor=white)
-  ![AlertToast](https://img.shields.io/badge/-AlertToast-FFCC00?style=for-the-badge&logo=apple&logoColor=white)
-
+  ![Tokenization](https://img.shields.io/badge/-Tokenization-00C7B7?style=for-the-badge&logo=lock&logoColor=white)
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahhancoding&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tahhancoding&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
