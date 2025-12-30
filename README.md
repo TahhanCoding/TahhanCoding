@@ -31,6 +31,7 @@ Experienced iOS Developer with 2+ years of hands-on experience developing user-c
 *HRSD Application*
 
 - **Implementing complex features** in large-scale HRSD application using REMIX architecture and handling legacy code
+- **Set up Complex Pipeline** that has multiple package dependencies and a complex environment schemas
 - **Developed dynamic FAQ system** with recursive dynamic categorization, improving user navigation and information discovery
 - **Engineered complex appointment booking flow** managing multiple data sources, complex validation rules, and seamless user experience
 - **Enhanced application security** by implementing dynamic tokenization approach to protect sensitive data
