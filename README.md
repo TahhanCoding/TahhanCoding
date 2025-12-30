@@ -36,7 +36,7 @@ Experienced iOS Developer with 2+ years of hands-on experience developing user-c
 - **Engineered complex appointment booking flow** managing multiple data sources, complex validation rules, and seamless user experience
 - **Enhanced application security** by implementing dynamic tokenization approach to protect sensitive data
 - **Improved development workflow** by creating custom error sharing handler for debugging environment, accelerating issue identification cycle so testing team can debug separately
-- **Architected and documented** complex feature implementations with flow charts and technical documentation
+- **Documented** complex feature implementations with flow charts and technical writing
 - **Bridged UI frameworks** by effectively integrating SwiftUI and UIKit components within hybrid application architecture
 
 ### **iOS Developer** | Safwa Tech | Apr 2024 – Aug 2025
